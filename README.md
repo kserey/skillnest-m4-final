@@ -41,7 +41,7 @@ Este proyecto no requiere instalación de dependencias de Node.js, ya que funcio
 * **1. Clonar el repositorio:**
 
 ```bash
-git clone [https://github.com/kserey/skillnest-m4-final](https://github.com/kserey/skillnest-m4-final)
+git clone https://github.com/kserey/skillnest-m4-final
 ```
 
 * **2. Ejecutar:**
