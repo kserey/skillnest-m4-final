@@ -1,0 +1,9 @@
+.tarea-completada {
+    text-decoration: line-through;
+    color: #6c757d; 
+    background-color: #f8f9fa;
+}
+
+.btn-action {
+    margin-left: 5px;
+}
