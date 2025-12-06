@@ -38,22 +38,22 @@ El sistema implementa **Programación Orientada a Objetos (POO)** y manipulació
 ## ⚙️ Instalación y Uso
 Este proyecto no requiere instalación de dependencias de Node.js, ya que funciona directamente en el navegador.
 
-* 1. Clonar el repositorio:
+* **1. Clonar el repositorio:**
 
 ```bash
 git clone [https://github.com/TU_USUARIO/nombre-repo.git](https://github.com/TU_USUARIO/nombre-repo.git)
 ```
 
-* 2. Ejecutar:
+* **2. Ejecutar:**
     * Abre el archivo index.html en tu navegador web de preferencia.
     * O utiliza una extensión como "Live Server" en VS Code.
 
 ## 📝 Notas sobre la API (JSONPlaceholder)
 Este proyecto utiliza JSONPlaceholder como backend de prueba. Es importante notar que:
 
-* **1.Persistencia:** Al ser una API de prueba pública, los cambios (nuevas tareas, ediciones, borrados) no se guardan realmente en el servidor. La API simula la respuesta correcta, pero al recargar la página, volverán a aparecer los datos originales de prueba.
+* **1. Persistencia:** Al ser una API de prueba pública, los cambios (nuevas tareas, ediciones, borrados) no se guardan realmente en el servidor. La API simula la respuesta correcta, pero al recargar la página, volverán a aparecer los datos originales de prueba.
 
 * **2. Datos de Ejemplo:** Las tareas iniciales que aparecen (en latín) provienen directamente de la base de datos de JSONPlaceholder. Es normal ver algunas tareas iniciadas como "completadas" si así vienen desde el servidor.
 
-✒️ Autor
+## ✒️ Autor
 Irina Serey - Desarrollador Full Stack en formación
