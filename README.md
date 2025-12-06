@@ -33,6 +33,7 @@ El sistema implementa **Programación Orientada a Objetos (POO)** y manipulació
   └── assets
       └── css
           └── style.css    # Estilos personalizados
+```
 
 ## ⚙️ Instalación y Uso
 Este proyecto no requiere instalación de dependencias de Node.js, ya que funciona directamente en el navegador.
